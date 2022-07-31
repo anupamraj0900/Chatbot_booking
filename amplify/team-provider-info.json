@@ -1,0 +1,49 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsamplifychatbotone-dev-180600-authRole",
+      "UnauthRoleArn": "arn:aws:iam::312055458758:role/amplify-awsamplifychatbotone-dev-180600-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::312055458758:role/amplify-awsamplifychatbotone-dev-180600-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-awsamplifychatbotone-dev-180600-deployment",
+      "UnauthRoleName": "amplify-awsamplifychatbotone-dev-180600-unauthRole",
+      "StackName": "amplify-awsamplifychatbotone-dev-180600",
+      "StackId": "arn:aws:cloudformation:us-west-2:312055458758:stack/amplify-awsamplifychatbotone-dev-180600/0c1e5f80-f2f1-11ec-a9f8-0653ba8cf749",
+      "AmplifyAppId": "d3gm4q0m6cpf3y"
+    }
+  },
+  "devone": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsamplifychatbotone-devone-202711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::928986016080:role/amplify-awsamplifychatbotone-devone-202711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::928986016080:role/amplify-awsamplifychatbotone-devone-202711-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awsamplifychatbotone-devone-202711-deployment",
+      "UnauthRoleName": "amplify-awsamplifychatbotone-devone-202711-unauthRole",
+      "StackName": "amplify-awsamplifychatbotone-devone-202711",
+      "StackId": "arn:aws:cloudformation:us-east-1:928986016080:stack/amplify-awsamplifychatbotone-devone-202711/c513ca30-f304-11ec-80e0-0a302e658235",
+      "AmplifyAppId": "d1p4fy7rsewy63"
+    },
+    "categories": {
+      "auth": {
+        "undefined": {}
+      },
+      "interactions": {
+        "lexd70b3822": {
+          "deploymentBucketName": "amplify-awsamplifychatbotone-devone-202711-deployment",
+          "s3Key": "amplify-builds/lexd70b3822-496c52346d5632776f6b-build.zip"
+        },
+        "lex5fb7c99f": {
+          "deploymentBucketName": "amplify-awsamplifychatbotone-devone-202711-deployment",
+          "s3Key": "amplify-builds/lex5fb7c99f-594f47782f4978316f48-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1p4fy7rsewy63",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
