@@ -1,6 +1,8 @@
 You can book your trip using the chatbot-
 The name of the web app is ARS TRAVELS.
-Initialise the bot by typing-"Book a Hotel" OR "Book a Ca
+Initialise the bot by typing-"Book a Hotel" OR "Book a Car"
+<img width="1422" alt="chatbotapp" src="https://user-images.githubusercontent.com/70150362/183745104-541a1dba-5700-4f54-90e1-728736ffc7b0.png">
+
 
 # aws-amplify-chatbotone
 
